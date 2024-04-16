@@ -17,6 +17,3 @@ follow these steps to clone the app-
 ```
 
 
-
-
-![Screenshot 2024-04-16 232914](https://github.com/ayushukla02/Spotify-clone/assets/161790283/420ca324-bbb9-4067-949e-f8a1162d345e)
